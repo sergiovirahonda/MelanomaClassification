@@ -1,2 +1,2 @@
-# MelanomaClassification
-This project is based on a dataset of bening/malignant melanoma images from a Kaggle competition which I tackled with a Keras Convolutional Neural Network.
+# SIIM-ISIC Melanoma Classification
+This project is based on a dataset of bening/malignant melanoma images from a Kaggle competition (available at https://www.kaggle.com/c/siim-isic-melanoma-classification/data) which I tackled with a Keras Convolutional Neural Network. Essentially this notebook goes across data preprocessing, augmentation, model building and training to then finally reach model validation. Check it out!
